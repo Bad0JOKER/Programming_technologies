@@ -1,0 +1,14 @@
+C:\Users\Администратор\source\repos\main\SystemOfBankAccount\bin\Debug\net8.0\SystemOfBankAccount.exe
+C:\Users\Администратор\source\repos\main\SystemOfBankAccount\bin\Debug\net8.0\SystemOfBankAccount.deps.json
+C:\Users\Администратор\source\repos\main\SystemOfBankAccount\bin\Debug\net8.0\SystemOfBankAccount.runtimeconfig.json
+C:\Users\Администратор\source\repos\main\SystemOfBankAccount\bin\Debug\net8.0\SystemOfBankAccount.dll
+C:\Users\Администратор\source\repos\main\SystemOfBankAccount\bin\Debug\net8.0\SystemOfBankAccount.pdb
+C:\Users\Администратор\source\repos\main\SystemOfBankAccount\obj\Debug\net8.0\SystemOfBankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\source\repos\main\SystemOfBankAccount\obj\Debug\net8.0\SystemOfBankAccount.AssemblyInfoInputs.cache
+C:\Users\Администратор\source\repos\main\SystemOfBankAccount\obj\Debug\net8.0\SystemOfBankAccount.AssemblyInfo.cs
+C:\Users\Администратор\source\repos\main\SystemOfBankAccount\obj\Debug\net8.0\SystemOfBankAccount.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\main\SystemOfBankAccount\obj\Debug\net8.0\SystemOfBankAccount.dll
+C:\Users\Администратор\source\repos\main\SystemOfBankAccount\obj\Debug\net8.0\refint\SystemOfBankAccount.dll
+C:\Users\Администратор\source\repos\main\SystemOfBankAccount\obj\Debug\net8.0\SystemOfBankAccount.pdb
+C:\Users\Администратор\source\repos\main\SystemOfBankAccount\obj\Debug\net8.0\SystemOfBankAccount.genruntimeconfig.cache
+C:\Users\Администратор\source\repos\main\SystemOfBankAccount\obj\Debug\net8.0\ref\SystemOfBankAccount.dll
