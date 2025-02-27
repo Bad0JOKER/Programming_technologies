@@ -1,0 +1,16 @@
+D:\PROG\210a\SystemOfBankAccount\bin\Debug\net5.0\SystemOfBankAccount.exe
+D:\PROG\210a\SystemOfBankAccount\bin\Debug\net5.0\SystemOfBankAccount.deps.json
+D:\PROG\210a\SystemOfBankAccount\bin\Debug\net5.0\SystemOfBankAccount.runtimeconfig.json
+D:\PROG\210a\SystemOfBankAccount\bin\Debug\net5.0\SystemOfBankAccount.runtimeconfig.dev.json
+D:\PROG\210a\SystemOfBankAccount\bin\Debug\net5.0\SystemOfBankAccount.dll
+D:\PROG\210a\SystemOfBankAccount\bin\Debug\net5.0\ref\SystemOfBankAccount.dll
+D:\PROG\210a\SystemOfBankAccount\bin\Debug\net5.0\SystemOfBankAccount.pdb
+D:\PROG\210a\SystemOfBankAccount\obj\Debug\net5.0\SystemOfBankAccount.csproj.AssemblyReference.cache
+D:\PROG\210a\SystemOfBankAccount\obj\Debug\net5.0\SystemOfBankAccount.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROG\210a\SystemOfBankAccount\obj\Debug\net5.0\SystemOfBankAccount.AssemblyInfoInputs.cache
+D:\PROG\210a\SystemOfBankAccount\obj\Debug\net5.0\SystemOfBankAccount.AssemblyInfo.cs
+D:\PROG\210a\SystemOfBankAccount\obj\Debug\net5.0\SystemOfBankAccount.csproj.CoreCompileInputs.cache
+D:\PROG\210a\SystemOfBankAccount\obj\Debug\net5.0\SystemOfBankAccount.dll
+D:\PROG\210a\SystemOfBankAccount\obj\Debug\net5.0\ref\SystemOfBankAccount.dll
+D:\PROG\210a\SystemOfBankAccount\obj\Debug\net5.0\SystemOfBankAccount.pdb
+D:\PROG\210a\SystemOfBankAccount\obj\Debug\net5.0\SystemOfBankAccount.genruntimeconfig.cache
